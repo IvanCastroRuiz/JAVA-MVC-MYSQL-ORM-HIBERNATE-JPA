@@ -1,0 +1,8 @@
+com\mycompany\ejemplohibernate\App.class
+com\mycompany\ejemplohibernate\controlador\SongController.class
+com\mycompany\ejemplohibernate\modelo\Song_.class
+com\mycompany\ejemplohibernate\controlador\exceptions\NonexistentEntityException.class
+com\mycompany\ejemplohibernate\controlador\exceptions\PreexistingEntityException.class
+com\mycompany\ejemplohibernate\modelo\ConexionModelo.class
+com\mycompany\ejemplohibernate\modelo\Song.class
+com\mycompany\ejemplohibernate\controlador\exceptions\IllegalOrphanException.class
